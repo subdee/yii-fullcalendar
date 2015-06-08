@@ -1,0 +1,10 @@
+{
+  "name": "yii-fullcalendar",
+  "title": "FullCalendar for Yii 1.1",
+  "version": "0.1",
+  "description": "Fullcalendar for Yii 1.1",
+  "copyright": "2015 Subdee Studio",
+  "dependencies": {
+    "fullcalendar": "2.3.1"
+  }
+}
