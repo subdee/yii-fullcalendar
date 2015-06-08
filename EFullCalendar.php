@@ -29,7 +29,7 @@ class EFullCalendar extends CWidget
      */
     protected function registerFiles()
     {
-        $compsDir = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'bower_components' . DIRECTORY_SEPARATOR;
+        $compsDir = dirname(__FILE__) . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR;
         $fcAssetsDir = $compsDir . 'fullcalendar' . DIRECTORY_SEPARATOR . 'dist';
         $momAssetsDir = $compsDir . 'moment' . DIRECTORY_SEPARATOR . 'min';
 
